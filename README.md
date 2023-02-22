@@ -7,7 +7,7 @@ int main(void)
   printf("Hello World!\n");
   while(true)
   {
-    printf("I don't want to return 0")
+    printf("I don't want to return 0");
   }
   return 0;
 }
