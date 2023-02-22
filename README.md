@@ -17,7 +17,7 @@ int main(void)
 ## 🤔 My detail
  <br/>
  
-[![juhojang's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhojang)](https://github.com/anuraghazra/github-readme-stats) 　　　　　　 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhojang&layout=compact)](https://github.com/juhojang/github-readme-stats)
+[![juhojang's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhojang)](https://github.com/anuraghazra/github-readme-stats) 　　　　 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhojang&layout=compact)](https://github.com/juhojang/github-readme-stats)
 
  <br/><br/>
 ### 👯 I’m belong to ...
